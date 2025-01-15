@@ -114,7 +114,7 @@ if "%choice%"=="1" (
     pause
 ) else if "%choice%"=="2" (
     echo %BLUE%Opening GitHub page for updates...%RESET%
-    start "" "https://github.com/oop7/AIDA64.Extreme-Activator"
+    start "" "https://github.com/SomeMedic/thesaintaida/"
     pause
 ) else if "%choice%"=="3" (
     echo %RED%Exiting...%RESET%
